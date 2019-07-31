@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CRUD DELTA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_resetData">Reset Data</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_manag_user">MANAJEMEN DATA USER</string>
+    <string name="title_activity_main_activity">LIST DATA USER</string>
+    <string name="txtDika"> PROJECT CRUDDELTA RDIKA</string>
+   
+    
+     <string-array name="tipeUser">
+         <item>Pilih</item>
+         <item>SUPER ADMIN</item>
+         <item>USER</item>
+    </string-array>
+
+</resources>
